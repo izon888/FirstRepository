@@ -1,3 +1,6 @@
 Hello world!!!
 123
 Good bye~
+print("hello")
+import os
+for i in os.getin
